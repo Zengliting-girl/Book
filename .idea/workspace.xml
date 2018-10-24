@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/ydnode/db.sql" line="53" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="19d460c5-2a87-4220-91fd-5ac029f30725" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ydvue/public/img/background/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/public/img/footer/yuedu-app.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/public/img/footer/yuedu-wechat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/public/img/header/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/public/img/header/user-head.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/public/img/index/arrow-left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/public/img/index/arrow-right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/public/img/index/banner1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/public/img/index/banner2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/public/img/index/banner3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/public/img/index/banner4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/public/img/index/hotbook1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/public/img/index/hotbook2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/public/img/index/hotbook3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/public/img/index/hotbook4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/public/img/index/hotbook5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/public/img/index/hotbook6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/public/img/index/todaybook.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/public/img/index/topic1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/public/img/login/qq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/public/img/login/wechat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/public/img/login/weibo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/public/img/login/yuedu-app.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/public/img/timg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/src/assets/css/admin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/src/assets/css/admin_login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/src/assets/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/src/assets/css/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/src/assets/css/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/src/assets/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/src/assets/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/src/assets/css/register.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/src/components/Footer.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/src/components/Header.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/src/views/Admin.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/src/views/AdminLogin.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/src/views/Details.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/src/views/Index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/src/views/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ydvue/src/views/Register.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ydvue/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ydvue/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ydvue/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ydvue/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ydvue/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ydvue/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ydvue/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ydvue/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ydvue/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ydvue/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/ydvue/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ydvue/src/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/ydvue/src/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ydvue/src/views/About.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ydvue/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ydvue/src/views/Home.vue" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1246249981">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="4" />
+          <entry key="json" value="3" />
+          <entry key="sql" value="1" />
+          <entry key="步骤" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JSON" value="3" />
+          <entry key="JavaScript" value="4" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="SQL" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="txt" value="928" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="928" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="206106745">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.24" value="2" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.opened" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="PNG" value="1" />
+          <entry key="css" value="99" />
+          <entry key="html" value="98" />
+          <entry key="ico" value="1" />
+          <entry key="jpeg" value="7" />
+          <entry key="jpg" value="10" />
+          <entry key="js" value="36" />
+          <entry key="png" value="13" />
+          <entry key="sql" value="8" />
+          <entry key="txt" value="1" />
+          <entry key="vue" value="28" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="99" />
+          <entry key="HTML" value="98" />
+          <entry key="Image" value="32" />
+          <entry key="JavaScript" value="36" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="SQL" value="8" />
+          <entry key="Vue.js" value="28" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="14000" />
+          <entry key="html" value="3424" />
+          <entry key="js" value="5472" />
+          <entry key="sql" value="1173" />
+          <entry key="txt" value="3" />
+          <entry key="vue" value="1000" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="14000" />
+          <entry key="HTML" value="3424" />
+          <entry key="JavaScript" value="5472" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="SQL" value="1173" />
+          <entry key="Vue.js" value="1000" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ydnode/public/js/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="95" column="3" lean-forward="true" selection-start-line="95" selection-start-column="3" selection-end-line="95" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ydvue/src/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ydnode/routes/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ydvue/src/views/Home.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#132#147#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ydvue/src/router.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ydvue/src/assets/css/register.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ydvue/src/assets/css/footer.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ydvue/src/views/Index.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="297" column="11" lean-forward="true" selection-start-line="297" selection-start-column="11" selection-end-line="297" selection-end-column="11" />
+              <folding>
+                <element signature="n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#div#1;n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#div#2;n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#div#2;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#ul#0;n#div#2;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#ul#1;n#div#2;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" />
+                <element signature="e#8330#8361#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ydvue" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pool.js" />
+        <option value="$PROJECT_DIR$/步骤.txt" />
+        <option value="$PROJECT_DIR$/ydnode/public/admin.html" />
+        <option value="$PROJECT_DIR$/ydnode/public/user_list.html" />
+        <option value="$PROJECT_DIR$/ydnode/pool.js" />
+        <option value="$PROJECT_DIR$/ydnode/routes/user.js" />
+        <option value="$PROJECT_DIR$/ydnode/public/user_login.html" />
+        <option value="$PROJECT_DIR$/ydnode/public/js/header.js" />
+        <option value="$PROJECT_DIR$/ydnode/public/js/footer.js" />
+        <option value="$PROJECT_DIR$/ydnode/public/css/test.html" />
+        <option value="$PROJECT_DIR$/ydnode/public/test.html" />
+        <option value="$PROJECT_DIR$/ydnode/public/css/footer.css" />
+        <option value="$PROJECT_DIR$/ydnode/public/footer.html" />
+        <option value="$PROJECT_DIR$/ydnode/public/css/admin.css" />
+        <option value="$PROJECT_DIR$/ydnode/public/css/base.css" />
+        <option value="$PROJECT_DIR$/ydnode/public/admin_login.html" />
+        <option value="$PROJECT_DIR$/ydnode/public/css/admin_login.css" />
+        <option value="$PROJECT_DIR$/ydnode/public/css/user_login.css" />
+        <option value="$PROJECT_DIR$/ydnode/public/user_register.html" />
+        <option value="$PROJECT_DIR$/ydnode/public/css/user_register.css" />
+        <option value="$PROJECT_DIR$/ydnode/public/css/header.css" />
+        <option value="$PROJECT_DIR$/ydnode/public/css/index.css" />
+        <option value="$PROJECT_DIR$/ydnode/app.js" />
+        <option value="$PROJECT_DIR$/ydnode/public/header.html" />
+        <option value="$PROJECT_DIR$/ydnode/public/index.html" />
+        <option value="$PROJECT_DIR$/ydvue/src/views/Details.vue" />
+        <option value="$PROJECT_DIR$/ydvue/src/components/footer.vue" />
+        <option value="$PROJECT_DIR$/ydvue/src/views/UserLogin.vue" />
+        <option value="$PROJECT_DIR$/ydvue/src/views/UserRegister.vue" />
+        <option value="$PROJECT_DIR$/ydvue/src/main.js" />
+        <option value="$PROJECT_DIR$/ydvue/src/components/Footer.vue" />
+        <option value="$PROJECT_DIR$/ydvue/src/components/Header.vue" />
+        <option value="$PROJECT_DIR$/ydvue/src/assets/css/header.css" />
+        <option value="$PROJECT_DIR$/ydvue/src/App.vue" />
+        <option value="$PROJECT_DIR$/ydvue/src/assets/css/footer.css" />
+        <option value="$PROJECT_DIR$/ydvue/src/assets/css/index.css" />
+        <option value="$PROJECT_DIR$/ydvue/src/views/Admin.vue" />
+        <option value="$PROJECT_DIR$/ydvue/src/assets/css/admin.css" />
+        <option value="$PROJECT_DIR$/ydvue/src/router.js" />
+        <option value="$PROJECT_DIR$/ydvue/src/views/AdminLogin.vue" />
+        <option value="$PROJECT_DIR$/ydvue/src/assets/css/admin_login.css" />
+        <option value="$PROJECT_DIR$/ydvue/src/views/Login.vue" />
+        <option value="$PROJECT_DIR$/ydvue/src/assets/css/base.css" />
+        <option value="$PROJECT_DIR$/ydvue/src/assets/css/login.css" />
+        <option value="$PROJECT_DIR$/ydvue/src/views/Register.vue" />
+        <option value="$PROJECT_DIR$/ydvue/src/assets/css/register.css" />
+        <option value="$PROJECT_DIR$/ydnode/db.sql" />
+        <option value="$PROJECT_DIR$/ydvue/src/views/Index.vue" />
+        <option value="$PROJECT_DIR$/ydvue/src/views/Home.vue" />
+        <option value="$PROJECT_DIR$/ydnode/routes/index.js" />
+        <option value="$PROJECT_DIR$/ydnode/public/js/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/ydnode/node_modules" />
+    <handled-path value="$PROJECT_DIR$/ydvue/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/ydnode/package.json" />
+      <path value="$PROJECT_DIR$/ydvue/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-5" />
+    <option name="width" value="1588" />
+    <option name="height" value="1036" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Angular</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="YueDu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YueDu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YueDu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YueDu" type="462c0819:PsiDirectoryNode" />
+              <item name="ydnode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YueDu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YueDu" type="462c0819:PsiDirectoryNode" />
+              <item name="ydnode" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YueDu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YueDu" type="462c0819:PsiDirectoryNode" />
+              <item name="ydnode" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YueDu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YueDu" type="462c0819:PsiDirectoryNode" />
+              <item name="ydnode" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YueDu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YueDu" type="462c0819:PsiDirectoryNode" />
+              <item name="ydvue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YueDu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YueDu" type="462c0819:PsiDirectoryNode" />
+              <item name="ydvue" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YueDu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YueDu" type="462c0819:PsiDirectoryNode" />
+              <item name="ydvue" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YueDu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YueDu" type="462c0819:PsiDirectoryNode" />
+              <item name="ydvue" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="index" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YueDu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YueDu" type="462c0819:PsiDirectoryNode" />
+              <item name="ydvue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YueDu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YueDu" type="462c0819:PsiDirectoryNode" />
+              <item name="ydvue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YueDu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YueDu" type="462c0819:PsiDirectoryNode" />
+              <item name="ydvue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YueDu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YueDu" type="462c0819:PsiDirectoryNode" />
+              <item name="ydvue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YueDu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YueDu" type="462c0819:PsiDirectoryNode" />
+              <item name="ydvue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vueui" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\YueDu\ydvue\src\views" />
+      <recent name="D:\xampp\htdocs\YueDu\ydvue\public\img\index" />
+      <recent name="D:\xampp\htdocs\YueDu\ydvue\src\components" />
+      <recent name="D:\xampp\htdocs\YueDu\ydnode\public" />
+      <recent name="D:\xampp\htdocs\YueDu\ydnode\public\img\index\hotbook" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\YueDu\ydvue\src\assets\css" />
+      <recent name="D:\xampp\htdocs\YueDu\ydnode\public" />
+      <recent name="D:\xampp\htdocs\YueDu\ydvue\public" />
+      <recent name="D:\xampp\htdocs\YueDu\ydnode\public\img\index\banner" />
+      <recent name="D:\xampp\htdocs\YueDu\ydnode\public\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19d460c5-2a87-4220-91fd-5ac029f30725" name="Default Changelist" comment="" />
+      <created>1536234395275</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536234395275</updated>
+      <workItem from="1536234397833" duration="936000" />
+      <workItem from="1536235715227" duration="4395000" />
+      <workItem from="1536540814339" duration="1195000" />
+      <workItem from="1536560088483" duration="14000" />
+      <workItem from="1536577293897" duration="12688000" />
+      <workItem from="1536625825834" duration="40874000" />
+      <workItem from="1536712448911" duration="39202000" />
+      <workItem from="1536798502954" duration="1969000" />
+      <workItem from="1536836426075" duration="4000" />
+      <workItem from="1536893149050" duration="57000" />
+      <workItem from="1536909393511" duration="2033000" />
+      <workItem from="1536911554264" duration="10737000" />
+      <workItem from="1536925952875" duration="8863000" />
+      <workItem from="1536973234276" duration="37674000" />
+      <workItem from="1537144587487" duration="34627000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="195268000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-5" y="0" width="1588" height="1036" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13612904" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3292683" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4986351" visible="true" weight="0.28603104" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5013649" side_tool="true" weight="0.27605322" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18107371" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49933422" visible="true" weight="0.16075388" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5006658" side_tool="true" weight="0.21302429" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ydnode/public/img/index/banner/arrow-right.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydnode/public/img/index/banner/左箭头_3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydnode/public/img/index/banner/arrow-left.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydnode/public/img/index/banner/右箭头_2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://G:/达内/4-CSS3/Day06/day06-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydnode/public/img/index/banner/banner1.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydnode/public/img/index/banner/banner3.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydnode/public/img/index/banner/banner2.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dom/day03/6_images.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="42" column="36" lean-forward="true" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydnode/public/img/index/banner/banner4.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydnode/routes/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-733">
+          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydnode/public/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="78" column="17" lean-forward="true" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydnode/public/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <folding>
+            <element signature="n#div#1;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydvue/src/views/About.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydvue/public/img/index/hotbook2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydvue/public/img/header/user-head.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydvue/public/img/floor.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydvue/public/img/timg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydnode/public/js/footer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydnode/public/admin_login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydvue/src/views/Details.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydnode/public/admin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydnode/public/user_register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="40" column="7" lean-forward="true" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydnode/public/user_login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="41" column="7" lean-forward="true" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydnode/public/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydvue/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydvue/public/img/index/todaybook.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydnode/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#0;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#1;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#0;n#div#2;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#1;n#div#2;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#2;n#div#2;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#3;n#div#2;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydvue/src/components/Header.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="27" column="8" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#template#0;n#!!top" />
+            <element signature="e#725#757#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydvue/src/components/Footer.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#template#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydnode/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydvue/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydvue/src/assets/css/admin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="54" column="26" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydvue/src/views/Admin.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydvue/src/views/AdminLogin.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding>
+            <element signature="n#form#0;n#div#0;n#template#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydvue/src/assets/css/admin_login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydvue/src/assets/css/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydvue/src/views/Login.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydvue/src/assets/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="30" column="19" lean-forward="true" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydvue/src/views/Register.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydvue/src/assets/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3931">
+          <caret line="354" column="8" lean-forward="true" selection-start-line="354" selection-start-column="8" selection-end-line="354" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydnode/db.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydvue/src/assets/css/header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="35" lean-forward="true" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydvue/src/views/Home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#132#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydvue/src/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydnode/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydnode/public/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="95" column="3" lean-forward="true" selection-start-line="95" selection-start-column="3" selection-end-line="95" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydvue/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydvue/src/assets/css/register.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydvue/src/assets/css/footer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ydvue/src/views/Index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="297" column="11" lean-forward="true" selection-start-line="297" selection-start-column="11" selection-end-line="297" selection-end-column="11" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#2;n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#2;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#ul#0;n#div#2;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#ul#1;n#div#2;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="e#8330#8361#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
